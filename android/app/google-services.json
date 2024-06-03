@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35042466307",
+    "project_id": "mindmemo-app",
+    "storage_bucket": "mindmemo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35042466307:android:691756443c10c7906a8c36",
+        "android_client_info": {
+          "package_name": "com.mind.app.memii.mindmemo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_8sLVR_eJGSPuJBf5NPpZGWkMUld5hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
