@@ -51,8 +51,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     Navigator.of(context).push(
                       MaterialPageRoute<void>(
                           builder: (BuildContext context) => const cdsfsdfs(
-                                link:
-                                    'https://docs.google.com/document/d/147pyMHQh9MH0wwGoLq-GhWsDg2wVWq1AGQPyi2n6M1w/edit?usp=sharing',
+                                link: 'https://forms.gle/8dkzwwfTVS8wrPHNA',
                               )),
                     );
                   },
