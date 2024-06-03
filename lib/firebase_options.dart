@@ -63,6 +63,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '35042466307',
     projectId: 'mindmemo-app',
     storageBucket: 'mindmemo-app.appspot.com',
-    iosBundleId: 'com.mind.app.memii.mindmemoApp',
+    iosBundleId: 'com.grazhelper.studio.io',
   );
 }
